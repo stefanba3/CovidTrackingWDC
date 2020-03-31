@@ -4,8 +4,8 @@ Simple Tableau Web Data Connector for the COVID Tracking Project API
 
 ## Getting Started
 
-In Tableau, connect using Web Data Connector
-TODO
+In Tableau, connect using Web Data Connector.
+Type https://stefanba3.github.io/CovidTrackingWDC/index.html into the address bar. 
 
 ### Prerequisites
 
@@ -13,6 +13,8 @@ Tableau Desktop
 
 ### Installing
 
+No installation needed to use.
+TODO: Steps for developer installation.
 
 ## License
 
