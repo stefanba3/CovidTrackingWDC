@@ -59,7 +59,7 @@
     };
 
     myConnector.getData = function (table, doneCallback) {
-        var query = "http://covidtracking.com/api/states/daily"
+        var query = "https://covidtracking.com/api/states/daily"
         $.getJSON(query, function(response) {
             table.appendRows(response);
             doneCallback();
