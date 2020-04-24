@@ -18,20 +18,38 @@
             id: "pending",
             dataType: tableau.dataTypeEnum.int
         }, {
+            id: "hospitalizedCurrently",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "hospitalizedCumulative",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "inIcuCurrently",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "inIcuCumulative",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "onVentilatorCurrently",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "onVentilatorCumulative",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "recovered",
+            dataType: tableau.dataTypeEnum.int
+        }, {
             id: "hospitalized",
+            dataType: tableau.dataTypeEnum.int
+        }, {
+            id: "totalTestResults",
             dataType: tableau.dataTypeEnum.int
         }, {
             id: "death",
             dataType: tableau.dataTypeEnum.int
         }, {
-            id: "total",
-            dataType: tableau.dataTypeEnum.int
-        }, {
             id: "dateChecked",
             dataType: tableau.dataTypeEnum.string
-        }, {
-            id: "totalTestResults",
-            dataType: tableau.dataTypeEnum.int
         }, {
             id: "deathIncrease",
             dataType: tableau.dataTypeEnum.int
