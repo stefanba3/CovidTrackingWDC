@@ -1,4 +1,4 @@
-# Project Title
+# COVID Tracking Project Tableau Web Data Connector
 
 Simple Tableau Web Data Connector for the COVID Tracking Project API
 
