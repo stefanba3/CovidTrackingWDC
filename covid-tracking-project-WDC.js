@@ -39,25 +39,16 @@
             id: "recovered",
             dataType: tableau.dataTypeEnum.int
         }, {
-            id: "hospitalized",
-            dataType: tableau.dataTypeEnum.int
-        }, {
             id: "totalTestResults",
             dataType: tableau.dataTypeEnum.int
         }, {
             id: "death",
             dataType: tableau.dataTypeEnum.int
         }, {
-            id: "dateChecked",
-            dataType: tableau.dataTypeEnum.string
-        }, {
             id: "deathIncrease",
             dataType: tableau.dataTypeEnum.int
         }, {
             id: "hospitalizedIncrease",
-            dataType: tableau.dataTypeEnum.int
-        }, {
-            id: "negativeIncrease",
             dataType: tableau.dataTypeEnum.int
         }, {
             id: "positiveIncrease",
